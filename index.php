@@ -23,4 +23,6 @@ include 'includes/header.php' ;
         
     ?>
     <button type="button" class="btn-dark">CLICK ME!</button>
+    <button type="button" class="btn-primary">CLICK ME!</button>
+    <button type="button" class="btn-success">CLICK ME!</button>
 <?php require 'includes/footer.php' ?>

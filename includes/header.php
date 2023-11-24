@@ -11,15 +11,15 @@
     <div class="container">
     <h2>Follow each link to the page example</h2>
     <ul class="nav">
-        <li class="nav-item"><a class="nav-link" href="php_primer/index.php">Home</a></li>
-        <li class="nav-item"><a class="nav-link" href="php_primer/array.php">Simple Array and Printouts</a></li>
-        <li class="nav-item"><a class="nav-link" href="php_primer/forloop.php">Simple For Loop</a></li>
-        <li class="nav-item"><a class="nav-link" href="php_primer/whiledowhileloop.php">Simple While/Do While Loop</a></li>
-        <li class="nav-item"><a class="nav-link" href="php_primer/ifstatement.php">Simple If Statement</a></li>
-        <li class="nav-item"><a class="nav-link" href="php_primer/switchstatement.php">Simple Switch Statement</a></li>
-        <li class="nav-item"><a class="nav-link" href="php_primer/stringmanip.php">Simple String Manipulation</a></li>
-        <li class="nav-item"><a class="nav-link" href="php_primer/datetimemanip.php">Simple Date and Time Manipulation</a></li>
-        <li class="nav-item"><a class="nav-link" href="php_primer/functions.php">Simple Functions</a></li>
+        <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="array.php">Simple Array and Printouts</a></li>
+        <li class="nav-item"><a class="nav-link" href="forloop.php">Simple For Loop</a></li>
+        <li class="nav-item"><a class="nav-link" href="whiledowhileloop.php">Simple While/Do While Loop</a></li>
+        <li class="nav-item"><a class="nav-link" href="ifstatement.php">Simple If Statement</a></li>
+        <li class="nav-item"><a class="nav-link" href="switchstatement.php">Simple Switch Statement</a></li>
+        <li class="nav-item"><a class="nav-link" href="stringmanip.php">Simple String Manipulation</a></li>
+        <li class="nav-item"><a class="nav-link" href="datetimemanip.php">Simple Date and Time Manipulation</a></li>
+        <li class="nav-item"><a class="nav-link" href="functions.php">Simple Functions</a></li>
         
     </ul>
 
